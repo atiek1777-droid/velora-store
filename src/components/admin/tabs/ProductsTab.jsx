@@ -1,5 +1,5 @@
 import { useState, useRef } from 'react';
-import { Plus, Edit2, Trash2, Save, X, Upload, Image } from 'lucide-react';
+import { Plus, CreditCard as Edit2, Trash2, Save, X, Upload, Image } from 'lucide-react';
 import { T, yer } from '../../../lib/constants.js';
 import { useData } from '../../../hooks/useData.jsx';
 import { useAuth } from '../../../hooks/useAuth.jsx';
